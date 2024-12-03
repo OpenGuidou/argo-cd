@@ -8567,6 +8567,10 @@
         "name": {
           "type": "string",
           "title": "Name of the ConfigMap"
+        },
+        "namespace": {
+          "type": "string",
+          "title": "Namespace of the ConfigMap"
         }
       }
     },
